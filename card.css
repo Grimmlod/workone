@@ -1,0 +1,31 @@
+.card {
+    border: 0 solid rgb(209, 197, 197);
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+}
+
+.conteiner {
+    width: 700px;
+    margin: auto;
+    padding: 10px;
+}
+
+.imgs {
+    border-radius: 20px;
+    width: 200px;
+    margin-bottom: 10px; 
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+}
+
+
+
+.bg_white {
+    background: white;
+}
+
+.bg_red {
+    background: red;
+}
+
